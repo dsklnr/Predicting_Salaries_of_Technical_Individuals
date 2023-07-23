@@ -1,0 +1,1 @@
+# Predicting_Salaries_of_Technical_Individuals
