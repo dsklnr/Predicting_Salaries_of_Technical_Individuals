@@ -8,7 +8,7 @@ Within the 2022 Developer Survey, there are 79 attributes and 73,268 observation
 
 The main purpose of this project was to practice data mining algorithms based on a relevant real-world data set. This included creating models for:
 
--Decision Trees
+- Decision Trees
 - K-Nearest Neighbor
 - Naive Bayes
 - Logistic Regression
