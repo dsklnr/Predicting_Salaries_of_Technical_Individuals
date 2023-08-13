@@ -10,7 +10,7 @@ Within the 2022 Developer Survey, there are 79 attributes and 73,268 observation
 
 The main purpose of this project was to practice data mining algorithms based on a relevant real-world data set. A threshold of $85,000 was set in order to accurartely run data mining models that assess if an individual makes $85,000 or more based on their number of years professionally programming, education level, work location (fully remote, hybrid, and fully-inperson), and organization size. The following models were created during this project:
 
-- Decision Trees
+- Decision Tree
 - K-Nearest Neighbor
 - Naive Bayes
 - Logistic Regression
