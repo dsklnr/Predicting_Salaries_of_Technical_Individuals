@@ -20,3 +20,8 @@ The main purpose of this project was to practice data mining algorithms based on
 <br/>
 
 <ins>**Results**</ins>
+
+<br/><br/>
+<ins>**Link to Kaggle**</ins>
+
+https://www.kaggle.com/datasets/ebrahimelgazar/stack-overflow-2022-developer-survey?select=survey_results_public.csv 
