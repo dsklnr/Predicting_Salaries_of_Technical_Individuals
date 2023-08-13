@@ -5,9 +5,9 @@ The mean cost of living in the United States for a family of four is approximate
 Within the 2022 Developer Survey, there are 79 attributes and 73,268 observations from respondents from around the world. For the purpose of this study, total compensation (CompTotal) will represent the independent variable. Years of professional programming (YearsCodePro), education level (EdLevel), remote work status (RemoteWork), and employer size (OrgSize) will represent dependent variables for the study. 
 
 
-**Purpose**
+<ins>**Purpose**</ins>
 
-The main purpose of this project was to practice data mining algorithms based on a relevant real-world data set. This included creating models for:
+The main purpose of this project was to practice data mining algorithms based on a relevant real-world data set. A threshold of $85,000 was set in order to accurartely run data mining models that assess if an individual makes $85,000 or more based on their number of years professionally programming, education level, work location (fully remote, hybrid, and fully-inperson), and organization size. The following models were created during this project:
 
 - Decision Trees
 - K-Nearest Neighbor
