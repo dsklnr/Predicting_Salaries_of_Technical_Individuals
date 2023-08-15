@@ -21,6 +21,13 @@ The main purpose of this project was to practice data mining algorithms based on
 
 <ins>**Results**</ins>
 
+To evaluate the results for this project it is necessary to determine a baseline model. Identifying all true positives was vitally important for this study. The data presents that 82.6% of respondents have a total compensation above $85,000. Thus, the baseline model will predict all true positives of respondents above the defined threshold, resulting in an accuracy of 82.6%.
+
+As this is a classification problem with a binary target variable, the metrics chosen to compare the models are accuracy, precision, recall, F1-score, and AUC.  For every model a contingency table is created to compare the predicted values with true and predicted results equal to or above $85,000 and below $85,000. 
+
+All models present similar metrics. For example, they all have an accuracy close to 84% (see Table 1). This is a good accuracy, but the difference is very small compared to the baseline model (83%). This resulted in the data mining models having more accurate predictions by 1%.
+
+
 <br/><br/>
 <ins>**Link to Kaggle**</ins>
 
